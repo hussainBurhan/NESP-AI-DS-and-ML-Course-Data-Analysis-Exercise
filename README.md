@@ -12,4 +12,4 @@ It includes operations like data type exploration, descriptive statistics, filte
 5. The program will execute and perform various data analysis tasks.
 
 ## Acknowledgments
-This program was created as part of the Python for Everyone course offered by the National Emerging Skills Program (NESP).
+This program was created as part of the AI, DS and ML Course  offered by the National Emerging Skills Program (NESP).
